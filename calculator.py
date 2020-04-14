@@ -3,11 +3,11 @@
 print("Enter first number :")
 firstNumber = int(input()) 
 print("Enter second number :")
-secondnumber = int(input())
+secondNumber = int(input())
 
-print(str(firstNumber) + " + " + str(secondnumber)+ " = " + str(firstNumber + secondnumber))
-print(str(firstNumber) + " - " + str(secondnumber)+ " = " + str(firstNumber - secondnumber))
-print(str(firstNumber) + " * " + str(secondnumber)+ " = " + str(firstNumber * secondnumber))
-print(str(firstNumber) + " / " + str(secondnumber)+ " = " + str(firstNumber / secondnumber))
+print(str(firstNumber) + " + " + str(secondNumber)+ " = " + str(firstNumber + secondNumber))
+print(str(firstNumber) + " - " + str(secondNumber)+ " = " + str(firstNumber - secondNumber))
+print(str(firstNumber) + " * " + str(secondNumber)+ " = " + str(firstNumber * secondNumber))
+print(str(firstNumber) + " / " + str(secondNumber)+ " = " + str(firstNumber / secondNumber))
 
 
